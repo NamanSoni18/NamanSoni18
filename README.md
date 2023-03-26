@@ -32,19 +32,19 @@
                     <ul>
                         <li>C: 90%</li>
                         <li>C++: 90%</li>
-                        <li>Java: 50%</li>
-                        <li>Dart: 85%</li>
-                        <li>JavaScript: 50%</li>
                     </ul>
                     <h3>Web Development</h3>
                     <ul>
                         <li>Bootstrap: 100%</li>
                         <li>HTML: 100%</li>
                         <li>CSS: 100%</li>
+                        <li>JavaScript: 50%</li>
                     </ul>
                     <h3>App Development</h3>
                     <ul>
                         <li>Flutter: 60%</li>
+                         <li>Java: 50%</li>
+                        <li>Dart: 85%</li>
                     </ul>
                     </div>
                     <br>
