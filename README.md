@@ -30,21 +30,20 @@
                     <h2>My Skills</h2>
                     <h3>Programming Languages</h3>
                     <ul>
-                        <li>C: 90%</li>
-                        <li>C++: 90%</li>
+                        <li>C</li>
+                        <li>C++</li>
                     </ul>
                     <h3>Web Development</h3>
                     <ul>
-                        <li>Bootstrap: 100%</li>
-                        <li>HTML: 100%</li>
-                        <li>CSS: 100%</li>
-                        <li>JavaScript: 50%</li>
+                        <li>Bootstrap</li>
+                        <li>HTML</li>
+                        <li>CSS</li>
+                        <li>JavaScript</li>
                     </ul>
                     <h3>App Development</h3>
                     <ul>
-                        <li>Flutter: 60%</li>
-                         <li>Java: 50%</li>
-                        <li>Dart: 85%</li>
+                         <li>Java</li>
+                        <li>XML</li>
                     </ul>
                     </div>
                     <br>
