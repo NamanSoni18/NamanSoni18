@@ -21,8 +21,8 @@
                     <p>📚 In my free time, I enjoy reading books and watching scientific movies.</p>
                     <h2>Contact Me</h2>
                     <p>📧 Email: <a href="mailto:sknaman763@gmail.com" target="_new">sknaman763@gmail.com</a></p>
-                    <p>📷 Instagram: <a href="https://www.instagram.com/naman_soni.19" target="_new"><img
-                                src="https://img.shields.io/badge/-@naman__soni.19-purple?style=flat-square&amp;logo=instagram&amp;logoColor=white&amp;link=https://www.instagram.com/naman_soni.19/"
+                    <p>📷 Instagram: <a href="https://www.instagram.com/developer_naman.20/" target="_new"><img
+                                src="https://img.shields.io/badge/-@developer_naman.20-purple?style=flat-square&amp;logo=instagram&amp;logoColor=white&amp;link=https://www.instagram.com/developer_naman.20/"
                                 alt="Instagram Badge"></a></p>
                     <p>💻 Facebook: <a href="https://www.facebook.com/naman.soni.96995238/" target="_new"><img
                                 src="https://img.shields.io/badge/-naman__soni.96995238-blue?style=flat-square&amp;logo=facebook&amp;logoColor=white&amp;link=https://www.facebook.com/naman.soni.96995238/"
