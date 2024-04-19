@@ -88,6 +88,7 @@
 
 ###
 
+<h2 align="left">You can see how this snake is eating my contribution</h2>
 <img src="https://raw.githubusercontent.com/NamanSoni18/NamanSoni18/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ###
