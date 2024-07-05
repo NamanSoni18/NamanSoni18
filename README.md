@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👨‍💻 I am a skilled coder with expertise in C, C++, Java, Bootstrap, Dart, Flutter, HTML, CSS, and JavaScript.<br><br>🌟 I love to explore new things and travel to different places.<br><br>📚 In my free time, I enjoy reading books and watching scientific movies.</p>
+<p align="left">👨‍💻 I am a skilled coder with expertise in C, C++, Java, Bootstrap, HTML, CSS, JavaScript, ReactJs, NodeJs, ExpressJs, MongoDB and basic Android Development.<br><br>🌟 I love to explore new things and travel to different places.<br><br>📚 In my free time, I enjoy reading books and watching scientific movies.</p>
 
 ###
 
