@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👨‍💻 I am a skilled coder with expertise in C, C++, Java, Bootstrap, HTML, CSS, JavaScript, ReactJs, NodeJs, ExpressJs, MongoDB and basic Android Development.<br><br>🌟 I love to explore new things and travel to different places.<br><br>📚 In my free time, I enjoy reading books and watching scientific movies.</p>
+<p align="left">👨‍💻 I am a skilled coder with expertise in C, C++, Java, Bootstrap, Dart, Flutter, HTML, CSS, and JavaScript.<br><br>🌟 I love to explore new things and travel to different places.<br><br>📚 In my free time, I enjoy reading books and watching scientific movies.</p>
 
 ###
 
@@ -28,6 +28,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
 ###
@@ -51,9 +53,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
 </div>
 
 ###
@@ -88,7 +92,13 @@
 
 ###
 
-<h2 align="left">You can see how this snake is eating my contribution</h2>
-<img src="https://raw.githubusercontent.com/NamanSoni18/NamanSoni18/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/NamanSoni18/NamanSoni18/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NamanSoni18&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NamanSoni18&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 ###
