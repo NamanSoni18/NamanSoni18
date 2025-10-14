@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 About Me  
 
-👨‍💻 I’m a passionate developer skilled in **C, C++, Java, Bootstrap, Dart, Flutter, HTML, CSS, and JavaScript**.  
+👨‍💻 I’m a passionate developer skilled in **C, C++, Java, Bootstrap, ReactJS, NodeJS, MongoDB, ExpressJS, Python**.  
 🌟 I love exploring new technologies and traveling to new places.  
 📚 In my free time, I enjoy **reading books** and **watching scientific movies**.  
 
